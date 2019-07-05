@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CreationPatternsPart1\CreationPatternsPart1\bin\Debug\CreationPatternsPart1.exe.config
+C:\Users\Admin\source\repos\CreationPatternsPart1\CreationPatternsPart1\bin\Debug\CreationPatternsPart1.exe
+C:\Users\Admin\source\repos\CreationPatternsPart1\CreationPatternsPart1\bin\Debug\CreationPatternsPart1.pdb
+C:\Users\Admin\source\repos\CreationPatternsPart1\CreationPatternsPart1\obj\Debug\CreationPatternsPart1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\CreationPatternsPart1\CreationPatternsPart1\obj\Debug\CreationPatternsPart1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CreationPatternsPart1\CreationPatternsPart1\obj\Debug\CreationPatternsPart1.exe
+C:\Users\Admin\source\repos\CreationPatternsPart1\CreationPatternsPart1\obj\Debug\CreationPatternsPart1.pdb
