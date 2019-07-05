@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CreationPatternsPart2\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\Admin\source\repos\CreationPatternsPart2\Prototype\bin\Debug\Prototype.exe
+C:\Users\Admin\source\repos\CreationPatternsPart2\Prototype\bin\Debug\Prototype.pdb
+C:\Users\Admin\source\repos\CreationPatternsPart2\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CreationPatternsPart2\Prototype\obj\Debug\Prototype.exe
+C:\Users\Admin\source\repos\CreationPatternsPart2\Prototype\obj\Debug\Prototype.pdb
+C:\Users\Admin\source\repos\CreationPatternsPart2\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
