@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\StructurePatternsPart1\StructurePatternsPart1\bin\Debug\StructurePatternsPart1.exe.config
+C:\Users\Admin\source\repos\StructurePatternsPart1\StructurePatternsPart1\bin\Debug\StructurePatternsPart1.exe
+C:\Users\Admin\source\repos\StructurePatternsPart1\StructurePatternsPart1\bin\Debug\StructurePatternsPart1.pdb
+C:\Users\Admin\source\repos\StructurePatternsPart1\StructurePatternsPart1\obj\Debug\StructurePatternsPart1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\StructurePatternsPart1\StructurePatternsPart1\obj\Debug\StructurePatternsPart1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StructurePatternsPart1\StructurePatternsPart1\obj\Debug\StructurePatternsPart1.exe
+C:\Users\Admin\source\repos\StructurePatternsPart1\StructurePatternsPart1\obj\Debug\StructurePatternsPart1.pdb
