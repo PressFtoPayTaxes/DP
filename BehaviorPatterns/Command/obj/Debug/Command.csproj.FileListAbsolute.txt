@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BehaviorPatterns\Command\bin\Debug\Command.exe.config
+C:\Users\Admin\source\repos\BehaviorPatterns\Command\bin\Debug\Command.exe
+C:\Users\Admin\source\repos\BehaviorPatterns\Command\bin\Debug\Command.pdb
+C:\Users\Admin\source\repos\BehaviorPatterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\BehaviorPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BehaviorPatterns\Command\obj\Debug\Command.exe
+C:\Users\Admin\source\repos\BehaviorPatterns\Command\obj\Debug\Command.pdb
