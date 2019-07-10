@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\DIP\bin\Debug\DIP.exe.config
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\DIP\bin\Debug\DIP.exe
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\DIP\bin\Debug\DIP.pdb
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\DIP\obj\Debug\DIP.exe
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\DIP\obj\Debug\DIP.pdb

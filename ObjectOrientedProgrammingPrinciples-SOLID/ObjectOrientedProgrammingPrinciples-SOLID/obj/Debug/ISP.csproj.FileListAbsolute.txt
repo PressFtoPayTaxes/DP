@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\ObjectOrientedProgrammingPrinciples-SOLID\bin\Debug\ObjectOrientedProgrammingPrinciples-SOLID.exe.config
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\ObjectOrientedProgrammingPrinciples-SOLID\bin\Debug\ObjectOrientedProgrammingPrinciples-SOLID.exe
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\ObjectOrientedProgrammingPrinciples-SOLID\bin\Debug\ObjectOrientedProgrammingPrinciples-SOLID.pdb
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\ObjectOrientedProgrammingPrinciples-SOLID\obj\Debug\ISP.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\ObjectOrientedProgrammingPrinciples-SOLID\obj\Debug\ISP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\ObjectOrientedProgrammingPrinciples-SOLID\obj\Debug\ObjectOrientedProgrammingPrinciples-SOLID.exe
+C:\Users\Admin\source\repos\ObjectOrientedProgrammingPrinciples-SOLID\ObjectOrientedProgrammingPrinciples-SOLID\obj\Debug\ObjectOrientedProgrammingPrinciples-SOLID.pdb
