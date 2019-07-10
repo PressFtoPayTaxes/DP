@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BehaviorPatterns2\BehaviorPatterns2\bin\Debug\BehaviorPatterns2.exe.config
+C:\Users\Admin\source\repos\BehaviorPatterns2\BehaviorPatterns2\bin\Debug\BehaviorPatterns2.exe
+C:\Users\Admin\source\repos\BehaviorPatterns2\BehaviorPatterns2\bin\Debug\BehaviorPatterns2.pdb
+C:\Users\Admin\source\repos\BehaviorPatterns2\BehaviorPatterns2\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\BehaviorPatterns2\BehaviorPatterns2\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BehaviorPatterns2\BehaviorPatterns2\obj\Debug\BehaviorPatterns2.exe
+C:\Users\Admin\source\repos\BehaviorPatterns2\BehaviorPatterns2\obj\Debug\BehaviorPatterns2.pdb

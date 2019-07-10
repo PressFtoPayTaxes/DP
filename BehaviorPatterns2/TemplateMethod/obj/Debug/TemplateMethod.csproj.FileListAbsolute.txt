@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BehaviorPatterns2\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\Admin\source\repos\BehaviorPatterns2\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\Admin\source\repos\BehaviorPatterns2\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\Admin\source\repos\BehaviorPatterns2\TemplateMethod\obj\Debug\TemplateMethod.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\BehaviorPatterns2\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BehaviorPatterns2\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\Admin\source\repos\BehaviorPatterns2\TemplateMethod\obj\Debug\TemplateMethod.pdb
