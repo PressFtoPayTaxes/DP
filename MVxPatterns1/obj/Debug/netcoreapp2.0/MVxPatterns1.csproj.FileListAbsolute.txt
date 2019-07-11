@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\bin\Debug\netcoreapp2.0\MVxPatterns1.deps.json
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\bin\Debug\netcoreapp2.0\MVxPatterns1.runtimeconfig.json
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\bin\Debug\netcoreapp2.0\MVxPatterns1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\bin\Debug\netcoreapp2.0\MVxPatterns1.dll
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\obj\Debug\netcoreapp2.0\MVxPatterns1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\obj\Debug\netcoreapp2.0\MVxPatterns1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\obj\Debug\netcoreapp2.0\MVxPatterns1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\obj\Debug\netcoreapp2.0\MVxPatterns1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\bin\Debug\netcoreapp2.0\MVxPatterns1.pdb
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\obj\Debug\netcoreapp2.0\MVxPatterns1.dll
+C:\Users\Admin\source\repos\MVxPatterns1\MVxPatterns1\obj\Debug\netcoreapp2.0\MVxPatterns1.pdb
